@@ -9,7 +9,7 @@ const About: React.FC = () => {
           <div className="relative mb-12 lg:mb-0 order-last lg:order-first">
             <div className="absolute inset-0 bg-blue-600 rounded-2xl transform rotate-3 opacity-10"></div>
               <img 
-                src="/profile.jpg" 
+                src="profile.jpg" 
                 alt="Profile" 
                 className="relative rounded-2xl shadow-xl w-full aspect-square object-cover" 
               />
